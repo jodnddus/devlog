@@ -38,7 +38,7 @@
 
 그랬더니 새로고침하고 처음 드래깅을 할 때 드래그 기능이 작동하지 않는 버그를 발견했다.
 
-![버그](./bug.mov)
+![버그](./https://github.com/jodnddus/devlog/blob/main/vuedraggable%20%EC%B2%98%EC%9D%8C%EC%97%90%20%EB%93%9C%EB%9E%98%EA%B9%85%20%EC%95%88%EB%90%98%EB%8A%94%20%EB%B2%84%EA%B7%B8%20%EC%88%98%EC%A0%95/bug-cliped.mov)
 
 한참을 vuedraggable 관련 문서를 읽고 수정한 코드에 대해서 디버깅하는 시간을 가졌다. 도저히 원인을 찾지 못하다가 선태님과 같이 시간을 쓰게 되었는데,
 

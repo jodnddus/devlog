@@ -7,3 +7,4 @@
 ## 08
 
 * [날짜 라이브러리 교체 작업](https://github.com/jodnddus/devlog/blob/main/%EB%82%A0%EC%A7%9C%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%EA%B5%90%EC%B2%B4%20%EC%9E%91%EC%97%85/%EB%82%A0%EC%A7%9C%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%EA%B5%90%EC%B2%B4%20%EC%9E%91%EC%97%85.md)
+* [vuedraggable 처음에 드래깅 안되는 버그 수정](https://github.com/jodnddus/devlog/blob/main/vuedraggable%20%EC%B2%98%EC%9D%8C%EC%97%90%20%EB%93%9C%EB%9E%98%EA%B9%85%20%EC%95%88%EB%90%98%EB%8A%94%20%EB%B2%84%EA%B7%B8%20%EC%88%98%EC%A0%95/vuedraggable%20%EC%B2%98%EC%9D%8C%EC%97%90%20%EB%93%9C%EB%9E%98%EA%B9%85%20%EC%95%88%EB%90%98%EB%8A%94%20%EB%B2%84%EA%B7%B8%20%EC%88%98%EC%A0%95.md)
